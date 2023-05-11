@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mananTeam/static/css/main.9e6d4651.css",
+    "main.js": "/mananTeam/static/js/main.bf13d835.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/mananTeam/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/huchin.mp4": "/mananTeam/static/media/huchin.578c1b800b5e40aa0e53.mp4",
+    "static/media/guitarAltaa.mp4": "/mananTeam/static/media/guitarAltaa.6e78419002abdb59d729.mp4",
+    "static/media/newYear.mp4": "/mananTeam/static/media/newYear.50bbf0f0cc302696f352.mp4",
+    "static/media/guitarAmraa.mp4": "/mananTeam/static/media/guitarAmraa.7f24e20e132096b4ce2f.mp4",
+    "static/media/guitarAmraa-2.mp4": "/mananTeam/static/media/guitarAmraa-2.db6e0b28d3c426989e82.mp4",
+    "static/media/manan_team.jpg": "/mananTeam/static/media/manan_team.1e53b959bf4d850a2373.jpg",
+    "index.html": "/mananTeam/index.html",
+    "main.9e6d4651.css.map": "/mananTeam/static/css/main.9e6d4651.css.map",
+    "main.bf13d835.js.map": "/mananTeam/static/js/main.bf13d835.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/mananTeam/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e6d4651.css",
+    "static/js/main.bf13d835.js"
+  ]
+}
