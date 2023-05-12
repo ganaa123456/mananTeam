@@ -14,7 +14,7 @@ function App() {
     <div className="App">
       
       <Routes>
-        <Route path="/" element={<HomePage />} />
+        <Route path="/mananTeam" element={<HomePage />} />
         <Route  path="/videos" element={<VideoPage searchValue={searchValue} setSearchValue={setSearchValue} />} />
         <Route path="/members" element={<PeoplePage  searchValue={searchValue}  setSearchValue={setSearchValue}  />} />
         <Route path="/members/detail" element={<MemberDetail />} />
