@@ -11,7 +11,7 @@ const Navbar = (props) => {
       <nav>
         <ul>
           <li>
-            <Link to="/">Нүүр</Link>
+            <Link to="/mananTeam">Нүүр</Link>
           </li>
           <li>
             <Link to="/videos">ПОСТУУД</Link>
