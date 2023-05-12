@@ -1,21 +1,31 @@
 {
   "files": {
-    "main.css": "/mananTeam/static/css/main.9e6d4651.css",
-    "main.js": "/mananTeam/static/js/main.bf13d835.js",
+    "main.css": "/mananTeam/static/css/main.43384c52.css",
+    "main.js": "/mananTeam/static/js/main.7d74200b.js",
     "static/js/787.c4e7f8f9.chunk.js": "/mananTeam/static/js/787.c4e7f8f9.chunk.js",
     "static/media/huchin.mp4": "/mananTeam/static/media/huchin.578c1b800b5e40aa0e53.mp4",
     "static/media/guitarAltaa.mp4": "/mananTeam/static/media/guitarAltaa.6e78419002abdb59d729.mp4",
     "static/media/newYear.mp4": "/mananTeam/static/media/newYear.50bbf0f0cc302696f352.mp4",
     "static/media/guitarAmraa.mp4": "/mananTeam/static/media/guitarAmraa.7f24e20e132096b4ce2f.mp4",
     "static/media/guitarAmraa-2.mp4": "/mananTeam/static/media/guitarAmraa-2.db6e0b28d3c426989e82.mp4",
+    "static/media/homePhoto.jpg": "/mananTeam/static/media/homePhoto.1cd48b68a7affdc657e2.jpg",
+    "static/media/alt.jpg": "/mananTeam/static/media/alt.cae30bfcd6fd7865a8ef.jpg",
+    "static/media/temka.jpg": "/mananTeam/static/media/temka.79767ed9e1611b71b519.jpg",
+    "static/media/gunbilig.jpg": "/mananTeam/static/media/gunbilig.7d8d0bacf5cab3c889c7.jpg",
+    "static/media/amraa.jpg": "/mananTeam/static/media/amraa.67c042d5a9d2fc425123.jpg",
     "static/media/manan_team.jpg": "/mananTeam/static/media/manan_team.1e53b959bf4d850a2373.jpg",
+    "static/media/magnao.jpg": "/mananTeam/static/media/magnao.36dac934bb88f1a8b04d.jpg",
+    "static/media/anand.jpg": "/mananTeam/static/media/anand.dc8134ecfeac491e11aa.jpg",
+    "static/media/me.jpg": "/mananTeam/static/media/me.ee755f51da1b800c49fc.jpg",
+    "static/media/uusk.jpg": "/mananTeam/static/media/uusk.ad2e21fe2a63ac9eb810.jpg",
+    "static/media/baasl.jpg": "/mananTeam/static/media/baasl.5f7d1bc4ac6d5dff059a.jpg",
     "index.html": "/mananTeam/index.html",
-    "main.9e6d4651.css.map": "/mananTeam/static/css/main.9e6d4651.css.map",
-    "main.bf13d835.js.map": "/mananTeam/static/js/main.bf13d835.js.map",
+    "main.43384c52.css.map": "/mananTeam/static/css/main.43384c52.css.map",
+    "main.7d74200b.js.map": "/mananTeam/static/js/main.7d74200b.js.map",
     "787.c4e7f8f9.chunk.js.map": "/mananTeam/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e6d4651.css",
-    "static/js/main.bf13d835.js"
+    "static/css/main.43384c52.css",
+    "static/js/main.7d74200b.js"
   ]
 }
