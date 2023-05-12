@@ -1,0 +1,35 @@
+.MemberDetail {
+    background: #240032;
+    height: 100vh;
+    width: 100wh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ccc;
+}
+.MemberContainer {
+    background: #160020;
+    width:400px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2rem;
+    justify-content: center;
+    text-align: center;
+    border-radius: 5px;
+}
+.DetailPhoto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid purple;
+}
+.Icon {
+    font-size: 3rem;
+    margin: 1rem;
+    border: 2px solid dodgerblue;
+}
+.DetailPhoto:hover {
+    transform: scale(1.05);
+}

@@ -1,0 +1,67 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.GridContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url(../../assets/homePhoto.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100wh;
+  height: 100%;
+  }
+  
+  .Griditem {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+    transition: transform 0.3s;
+  }
+  .Griditem:hover {
+    transform: scale(1.05);
+  }
+
+  
+  p {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  @media (max-width: 500px) {
+    .GridContainer {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 10px;
+      background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+      url(../../assets/homePhoto.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100wh;
+    height: 100%;
+    }
+    
+    .Griditem {
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: center;
+      transition: transform 0.3s;
+    }
+    .Griditem:hover {
+      transform: scale(1.05);
+    }
+  
+    
+    p {
+      margin-top: 10px;
+      font-size: 18px;
+      font-weight: bold;
+    }
+  }
+  
