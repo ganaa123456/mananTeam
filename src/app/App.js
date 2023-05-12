@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       
-      <Routes>
+      <Routes >
         <Route path="/mananTeam" element={<HomePage />} />
         <Route  path="/videos" element={<VideoPage searchValue={searchValue} setSearchValue={setSearchValue} />} />
         <Route path="/members" element={<PeoplePage  searchValue={searchValue}  setSearchValue={setSearchValue}  />} />
